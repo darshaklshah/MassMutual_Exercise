@@ -1,5 +1,5 @@
-# Problem1
-Cucumber-Problem1
+# Mass Mutual Exercise
+MassMutual Exercise using CucumberRunner
 
 Prerequisite: This project requires apache maven (version 3 and above) to be installed on the system.
 
